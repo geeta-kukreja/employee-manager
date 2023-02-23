@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "Manager",
+    "version": "1.0.0",
+    "sdkVersion": "27.0.0",
+    "ios": {
+      "bundleIdentifier": "com.yourcompany.manager"
+    },
+    "android": {
+      "package": "com.yourcompany.manager"
+    }
+  }
+}
