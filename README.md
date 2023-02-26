@@ -1,2 +1,2 @@
 # Employee-Manager
-Manage employs using react native and firebase
+Manage employees using react native and firebase
